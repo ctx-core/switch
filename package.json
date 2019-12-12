@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "6.0.113",
+	"version": "6.0.114",
 	"description": "ctx-core switch",
 	"main": "html.js",
 	"module": "html.js",
