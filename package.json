@@ -2,6 +2,7 @@
 	"name": "@ctx-core/switch",
 	"version": "6.0.157",
 	"description": "ctx-core switch",
+	"type": "module",
 	"main": "html.js",
 	"module": "html.js",
 	"scripts": {
