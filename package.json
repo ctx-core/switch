@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "6.0.165",
+	"version": "6.0.166",
 	"description": "ctx-core switch",
 	"main": "html.js",
 	"module": "html.js",
@@ -25,7 +25,7 @@
 		"access": "public"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^6.4.36",
+		"@ctx-core/sass": "^6.4.37",
 		"svelte": "^3.23.2"
 	},
 	"gitHead": "14510878ee8cd96748731730d0ba2a4fb50c0c87"
