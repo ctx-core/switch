@@ -2,31 +2,31 @@
 	"name": "@ctx-core/switch",
 	"version": "6.0.206",
 	"description": "ctx-core switch",
-	"main": "html.js",
-	"module": "html.js",
-	"scripts": {
-		"exec": "$@"
+	"keywords": [
+		"ctx-core",
+		"switch"
+	],
+	"homepage": "https://github.com/ctx-core/switch#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/switch/issues"
 	},
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/ctx-core/switch/issues"
 	},
-	"keywords": [
-		"ctx-core",
-		"switch"
-	],
-	"author": "Brian Takita",
 	"license": "Apache-2.0",
-	"bugs": {
-		"url": "https://github.com/ctx-core/switch/issues"
-	},
-	"homepage": "https://github.com/ctx-core/switch#readme",
-	"publishConfig": {
-		"access": "public"
+	"author": "Brian Takita",
+	"main": "html.js",
+	"module": "html.js",
+	"scripts": {
+		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^7.1.10",
+		"@ctx-core/sass": "workspace:*",
 		"svelte": "^3.25.0"
+	},
+	"publishConfig": {
+		"access": "public"
 	},
 	"gitHead": "978ad6c5b3f2ed23647a9c373ed4957ed2977fce"
 }
