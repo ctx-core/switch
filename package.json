@@ -5,7 +5,7 @@
 	"main": "html.js",
 	"module": "html.js",
 	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1"
+		"exec": "$@"
 	},
 	"repository": {
 		"type": "git",
@@ -28,5 +28,5 @@
 		"@ctx-core/sass": "^7.1.10",
 		"svelte": "^3.25.0"
 	},
-	"gitHead": "74249bb521bb89201001e781510526f64d134a2b"
+	"gitHead": "978ad6c5b3f2ed23647a9c373ed4957ed2977fce"
 }
