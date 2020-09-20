@@ -1,32 +1,32 @@
 {
-  "name": "@ctx-core/switch",
-  "version": "6.0.207",
-  "description": "ctx-core switch",
-  "keywords": [
-    "ctx-core",
-    "switch"
-  ],
-  "homepage": "https://github.com/ctx-core/switch#readme",
-  "bugs": {
-    "url": "https://github.com/ctx-core/switch/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/ctx-core/switch/issues"
-  },
-  "license": "Apache-2.0",
-  "author": "Brian Takita",
-  "main": "html.js",
-  "module": "html.js",
-  "scripts": {
-    "exec": "$@"
-  },
-  "devDependencies": {
-    "@ctx-core/sass": "workspace:*",
-    "svelte": "~3.25.1"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "gitHead": "978ad6c5b3f2ed23647a9c373ed4957ed2977fce"
+	"name": "@ctx-core/switch",
+	"version": "6.0.207",
+	"description": "ctx-core switch",
+	"keywords": [
+		"ctx-core",
+		"switch"
+	],
+	"homepage": "https://github.com/ctx-core/switch#readme",
+	"bugs": {
+		"url": "https://github.com/ctx-core/switch/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ctx-core/switch/issues"
+	},
+	"license": "Apache-2.0",
+	"author": "Brian Takita",
+	"main": "html.js",
+	"module": "html.js",
+	"scripts": {
+		"exec": "$@",
+		"build": "npm run compile"
+	},
+	"devDependencies": {
+		"@ctx-core/sass": "workspace:*",
+		"svelte": "~3.25.1"
+	},
+	"publishConfig": {
+		"access": "public"
+	}
 }
