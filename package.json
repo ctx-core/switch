@@ -19,8 +19,8 @@
 	"main": "html.js",
 	"module": "html.js",
 	"scripts": {
-		"exec": "$@",
-		"build": "npm run compile"
+		"build": "npm run compile",
+		"exec": "$@"
 	},
 	"devDependencies": {
 		"@ctx-core/sass": "workspace:*",
