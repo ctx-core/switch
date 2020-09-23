@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 6.0.213
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.0.212
 
 ### Patch Changes
