@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 6.0.210
+
+### Patch Changes
+
+- version bump
+
 ## 6.0.209
 
 ### Patch Changes
