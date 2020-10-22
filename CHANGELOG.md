@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 6.0.217
+
+### Patch Changes
+
+- svelte: 3.29.0 -> 3.29.3
+
 ## 6.0.216
 
 ### Patch Changes
