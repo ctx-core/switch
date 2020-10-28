@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 6.0.219
+
+### Patch Changes
+
+- typescript: ^4.0.3 -> ^4.0.5
+
 ## 6.0.218
 
 ### Patch Changes
