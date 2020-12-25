@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 6.0.227
+
+### Patch Changes
+
+- - .rush
+
 ## 6.0.226
 
 ### Patch Changes
