@@ -23,7 +23,7 @@
 		"exec": "$@"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "workspace:^8.1.4",
+		"@ctx-core/sass": "workspace:^8.1.5",
 		"svelte": "3.31.0",
 		"typescript": "^4.1.3"
 	},
