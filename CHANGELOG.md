@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 7.0.0
+
+### Major Changes
+
+- src directory
+
 ## 6.0.231
 
 ### Patch Changes
