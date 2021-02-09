@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 7.0.2
+
+### Patch Changes
+
+- typescript: ^4.1.3 -> ^4.1.4
+
 ## 7.0.1
 
 ### Patch Changes
