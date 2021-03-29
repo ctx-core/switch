@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 7.0.12
+
+### Patch Changes
+
+- version bump
+
 ## 7.0.11
 
 ### Patch Changes
