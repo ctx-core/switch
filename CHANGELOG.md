@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 7.0.25
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.0.24
 
 ### Patch Changes
