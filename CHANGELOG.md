@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 7.1.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 7.1.0
 
 ### Minor Changes
