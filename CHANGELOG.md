@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 7.1.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 7.0.26
 
 ### Patch Changes
