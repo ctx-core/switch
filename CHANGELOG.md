@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 7.0.26
+
+### Patch Changes
+
+- types: ./src/index.d.ts: address error TS2742 issue
+
 ## 7.0.25
 
 ### Patch Changes
