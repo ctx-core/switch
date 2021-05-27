@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 7.2.2
+
+### Patch Changes
+
+- update dependencies
+
 ## 7.2.1
 
 ### Patch Changes
