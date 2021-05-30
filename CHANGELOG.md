@@ -1,5 +1,12 @@
 # @ctx-core/switch
 
+## 8.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
 ## 7.2.2
 
 ### Patch Changes

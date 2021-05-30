@@ -1,3 +1,3 @@
 import 'svelte'
-import Switch__Round from './Switch__Round.svelte'
-export { Switch__Round }
+import RoundSwitch from './RoundSwitch.svelte'
+export { RoundSwitch }
