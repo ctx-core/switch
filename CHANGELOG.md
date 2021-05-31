@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 8.0.1
+
+### Patch Changes
+
+- - tsconfig.tsbuildinfo
+
 ## 8.0.0
 
 ### Major Changes
