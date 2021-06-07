@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 8.0.3
+
+### Patch Changes
+
+- version bump: run build
+
 ## 8.0.2
 
 ### Patch Changes
