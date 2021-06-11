@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "8.0.4",
+	"version": "8.0.5",
 	"description": "ctx-core switch",
 	"keywords": [
 		"ctx-core",
@@ -28,7 +28,7 @@
 	},
 	"devDependencies": {
 		"@ctx-core/ctx-core-package-tools": "workspace:^7.0.19",
-		"@ctx-core/sass": "workspace:^10.0.16",
+		"@ctx-core/sass": "workspace:^10.0.17",
 		"svelte": "3.38.2",
 		"typescript": "^4.3.2"
 	},
