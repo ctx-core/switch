@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 9.0.0
+
+### Major Changes
+
+- move from dist to src directory
+
 ## 8.0.6
 
 ### Patch Changes
