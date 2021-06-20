@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 9.0.8
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 9.0.7
 
 ### Patch Changes
