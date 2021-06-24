@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 9.0.11
+
+### Patch Changes
+
+- tsconfig.json: "lib": ["dom", "ESNext"]
+
 ## 9.0.10
 
 ### Patch Changes
