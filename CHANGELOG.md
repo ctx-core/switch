@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 10.0.3
+
+### Patch Changes
+
+- support cjs & esm: + "exports"
+
 ## 10.0.2
 
 ### Patch Changes
