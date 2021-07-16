@@ -1,5 +1,17 @@
 # @ctx-core/switch
 
+## 10.0.11
+
+### Patch Changes
+
+- fix: sourceMappingURL: "mapRoot": ""
+
+## 10.0.10
+
+### Patch Changes
+
+- tsconfig.json: "target": "es2019"
+
 ## 10.0.9
 
 ### Patch Changes
