@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 10.0.5
+
+### Patch Changes
+
+- fix: index.cjs: module.exports = require('./index.js')
+
 ## 10.0.4
 
 ### Patch Changes
