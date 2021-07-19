@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 10.0.12
+
+### Patch Changes
+
+- exports: + "package.json": "./package.json"
+
 ## 10.0.11
 
 ### Patch Changes
