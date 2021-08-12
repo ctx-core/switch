@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 10.0.36
+
+### Patch Changes
+
+- update dependencies
+
 ## 10.0.35
 
 ### Patch Changes
