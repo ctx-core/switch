@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "10.0.57",
+	"version": "10.0.58",
 	"description": "ctx-core switch",
 	"keywords": [
 		"ctx-core",
@@ -37,10 +37,10 @@
 		"prepublishOnly": "npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.68",
-		"@ctx-core/sass": "workspace:^12.0.28",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.69",
+		"@ctx-core/sass": "workspace:^12.0.29",
 		"svelte": "3.42.5",
-		"typescript": "^4.4.2"
+		"typescript": "^4.4.3"
 	},
 	"publishConfig": {
 		"access": "public",
