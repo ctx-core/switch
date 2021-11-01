@@ -1,5 +1,12 @@
 # @ctx-core/switch
 
+## 10.0.73
+
+### Patch Changes
+
+- typescript: ^4.4.3 -> ^4.4.4
+- svelte: 3.43.1 -> 3.44.0
+
 ## 10.0.72
 
 ### Patch Changes
