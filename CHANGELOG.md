@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 10.0.75
+
+### Patch Changes
+
+- compile using swc
+
 ## 10.0.74
 
 ### Patch Changes
