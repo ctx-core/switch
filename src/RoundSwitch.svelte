@@ -1,8 +1,8 @@
-<script>
+<script lang="ts">
 export let id = ''
 </script>
 
-<label class="Switch Switch__Round">
+<label class="Switch Round_Switch">
 	<input {id} type="checkbox" on:change>
 	<span class="slider round"></span>
 </label>

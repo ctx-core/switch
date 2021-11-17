@@ -1,3 +1,2 @@
 import 'svelte'
-import RoundSwitch from './RoundSwitch.svelte'
-export { RoundSwitch }
+export * as RoundSwitch from './RoundSwitch.svelte'

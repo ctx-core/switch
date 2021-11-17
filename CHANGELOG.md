@@ -1,5 +1,15 @@
 # @ctx-core/switch
 
+## 11.0.0
+
+### Major Changes
+
+- .Round_Switch instead of .Switch\_\_Round
+
+### Patch Changes
+
+- RoundSwitch: lang=ts
+
 ## 10.0.76
 
 ### Patch Changes
