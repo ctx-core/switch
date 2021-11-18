@@ -1,5 +1,12 @@
 # @ctx-core/switch
 
+## 11.0.1
+
+### Patch Changes
+
+- typescript: ^4.4.4 -> ^4.5.2
+- @swc/core: ^1.2.108 -> ^1.2.110
+
 ## 11.0.0
 
 ### Major Changes
