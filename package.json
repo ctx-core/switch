@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "11.0.7",
+	"version": "11.0.8",
 	"description": "ctx-core switch",
 	"keywords": [
 		"ctx-core",
@@ -17,7 +17,6 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"main": "./dist/index.js",
 	"module": "./dist/index.js",
 	"types": "./src/index.ts",
 	"exports": {
@@ -36,7 +35,7 @@
 	},
 	"devDependencies": {
 		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.83",
-		"@ctx-core/sass": "workspace:^12.1.6",
+		"@ctx-core/sass": "workspace:^12.1.7",
 		"@swc/cli": "^0.1.52",
 		"@swc/core": "^1.2.118",
 		"svelte": "3.44.2",

@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.8
+
+### Patch Changes
+
+- package.json: - "main": explicitly not support cjs
+
 ## 11.0.7
 
 ### Patch Changes
