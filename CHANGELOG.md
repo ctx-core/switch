@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.10
+
+### Patch Changes
+
+- package.json: - module
+
 ## 11.0.9
 
 ### Patch Changes
