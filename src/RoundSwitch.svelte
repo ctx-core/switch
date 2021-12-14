@@ -7,7 +7,7 @@ export let id = ''
 	<span class="slider round"></span>
 </label>
 
-<style type="text/scss">
+<style lang="scss">
 .Switch {
 	position: relative;
 	display: inline-block;
