@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.14
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 11.0.13
 
 ### Patch Changes
