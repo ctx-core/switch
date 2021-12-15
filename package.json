@@ -32,7 +32,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.86",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.87",
 		"@ctx-core/sass": "workspace:^12.1.8",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
