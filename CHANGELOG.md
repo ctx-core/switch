@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.15
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 11.0.14
 
 ### Patch Changes
