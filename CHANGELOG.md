@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.12
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 11.0.11
 
 ### Patch Changes
