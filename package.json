@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "11.0.12",
+	"version": "11.0.13",
 	"description": "ctx-core switch",
 	"keywords": [
 		"ctx-core",
@@ -12,15 +12,15 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/switch/issues"
+		"url": "https://github.com/ctx-core/switch.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
 	"exports": {
 		".": {
-			"types": "./src/index.ts",
-			"import": "./dist/index.js"
+			"import": "./dist/index.js",
+			"types": "./src/index.ts"
 		},
 		"./package.json": "./package.json"
 	},
@@ -32,8 +32,8 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.88",
-		"@ctx-core/sass": "workspace:^12.1.9",
+		"@ctx-core/ctx-core-package-tools": "workspace:^8.0.89",
+		"@ctx-core/sass": "workspace:^12.1.10",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.55",
