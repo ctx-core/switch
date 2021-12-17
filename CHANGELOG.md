@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.17
+
+### Patch Changes
+
+- package.json: "types": "./src/index.ts": better editing experience
+
 ## 11.0.16
 
 ### Patch Changes
