@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.19
+
+### Patch Changes
+
+- fix: error TS6059: \* is not under 'rootDir': package.json: types: ./dist/index.d.ts
+
 ## 11.0.18
 
 ### Patch Changes
