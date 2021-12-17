@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.18
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 11.0.17
 
 ### Patch Changes
