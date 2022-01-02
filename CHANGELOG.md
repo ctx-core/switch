@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.21
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 11.0.20
 
 ### Patch Changes
