@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.22
+
+### Patch Changes
+
+- version bump
+
 ## 11.0.21
 
 ### Patch Changes
