@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.24
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 11.0.23
 
 ### Patch Changes
