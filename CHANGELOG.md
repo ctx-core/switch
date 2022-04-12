@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.31
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 11.0.30
 
 ### Patch Changes
