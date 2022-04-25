@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.33
+
+### Patch Changes
+
+- tslib: ^2.3.1 -> ^2.4.0
+
 ## 11.0.32
 
 ### Patch Changes
