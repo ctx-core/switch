@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.35
+
+### Patch Changes
+
+- @ctx-core/function: 20.7.1
+
 ## 11.0.34
 
 ### Patch Changes
