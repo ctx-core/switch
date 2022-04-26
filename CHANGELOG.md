@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.34
+
+### Patch Changes
+
+- @ctx-core/array: 26.2.0
+
 ## 11.0.33
 
 ### Patch Changes
