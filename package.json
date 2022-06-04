@@ -33,7 +33,7 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^12.1.48",
+		"@ctx-core/sass": "^12.1.49",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.57",
