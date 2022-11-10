@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.53
+
+### Patch Changes
+
+- svelte: ^3.52.0 -> ^3.53.0
+
 ## 11.0.52
 
 ### Patch Changes
