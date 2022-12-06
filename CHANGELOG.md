@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.56
+
+### Patch Changes
+
+- svelte2tsx: ^0.5.21 -> ^0.5.22
+
 ## 11.0.55
 
 ### Patch Changes
