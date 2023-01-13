@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "11.0.77",
+	"version": "11.0.78",
 	"description": "ctx-core switch",
 	"keywords": [
 		"ctx-core",
@@ -33,12 +33,12 @@
 		"prepublishOnly": "npm run clean && npm run build"
 	},
 	"devDependencies": {
-		"@ctx-core/sass": "^12.1.86",
+		"@ctx-core/sass": "^12.1.87",
 		"@sveltejs/adapter-auto": "next",
 		"@sveltejs/kit": "next",
 		"@swc/cli": "^0.1.59",
 		"@swc/core": "^1.3.26",
-		"rimraf": "^4.0.1",
+		"rimraf": "^4.0.4",
 		"svelte": "^3.55.1",
 		"svelte-preprocess": "^5.0.0",
 		"svelte2tsx": "^0.6.0",

@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.78
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 11.0.77
 
 ### Patch Changes
