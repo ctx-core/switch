@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.79
+
+### Patch Changes
+
+- svelte-preprocess: ^5.0.0 -> ^5.0.1
+
 ## 11.0.78
 
 ### Patch Changes
