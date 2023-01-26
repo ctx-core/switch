@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.83
+
+### Patch Changes
+
+- @ctx-core/sass: ^12.1.89 -> ^12.1.90
+
 ## 11.0.82
 
 ### Patch Changes
