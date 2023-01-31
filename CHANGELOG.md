@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.84
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 11.0.83
 
 ### Patch Changes
