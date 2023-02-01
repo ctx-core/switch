@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.0.86
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 11.0.85
 
 ### Patch Changes
