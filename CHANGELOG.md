@@ -1,5 +1,12 @@
 # @ctx-core/switch
 
+## 11.1.0
+
+### Minor Changes
+
+- RoundSwitch: + types: RoundSwitch extends SvelteComponentTyped
+- extract _.js & _.d.ts into directories
+
 ## 11.0.96
 
 ### Patch Changes
