@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.1.22
+
+### Patch Changes
+
+- @ctx-core/monorepo: ^20.3.3 -> ^20.3.4
+
 ## 11.1.21
 
 ### Patch Changes
