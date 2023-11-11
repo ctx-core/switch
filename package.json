@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "11.1.35",
+	"version": "11.2.0",
 	"description": "ctx-core switch",
 	"keywords": [
 		"ctx-core",
@@ -17,10 +17,13 @@
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
 	"type": "module",
-	"types": "./src/index.d.ts",
-	"svelte": "./src/index.js",
+	"files": [
+		"*.d.ts",
+		"./RoundSwitch"
+	],
+	"types": "./index.d.ts",
 	"exports": {
-		".": "./src/index.js",
+		".": "./index.js",
 		"./package.json": "./package.json"
 	},
 	"scripts": {
