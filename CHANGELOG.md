@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 11.2.2
 
 ### Patch Changes
