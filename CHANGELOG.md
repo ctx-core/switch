@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.2.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 11.2.1
 
 ### Patch Changes
