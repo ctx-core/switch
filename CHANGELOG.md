@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.2.11
+
+### Patch Changes
+
+- tsx: ^4.4.0 -> ^4.5.0
+
 ## 11.2.10
 
 ### Patch Changes
