@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/switch",
-	"version": "11.2.14",
+	"version": "11.2.15",
 	"description": "ctx-core switch",
 	"keywords": [
 		"ctx-core",
@@ -39,7 +39,7 @@
 		"test:unit:coverage": "c8 pnpm test:unit"
 	},
 	"dependencies": {
-		"svelte": "^4.2.9"
+		"svelte": "^4.2.10"
 	},
 	"devDependencies": {
 		"c8": "^9.1.0",
