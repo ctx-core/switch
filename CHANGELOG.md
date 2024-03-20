@@ -1,5 +1,11 @@
 # @ctx-core/switch
 
+## 11.2.19
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 11.2.18
 
 ### Patch Changes
